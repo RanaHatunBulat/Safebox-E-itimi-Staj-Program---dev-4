@@ -1,0 +1,49 @@
+LoveLetter nedir ? 
+
+
+"Love Letter Email Virus", sahtekarların (siber suçluların) sahte e-postalar aracılığıyla alıcıları kandırmak için kullandığı bir spam kampanyasıdır. Bu sahte e-postaları alan kişileri, ekleri açmaları ve içerdikleri kötü amaçlı programları yüklemeleri konusunda kandırmaya çalışırlar.
+
+Sunulan ek, GandCrab 5.0.4 adlı yüksek riskli bir fidye yazılımı türü olan ve XMRig Miner adlı kripto para madencisini indirip yükleyen bir JavaScript dosyası içermektedir. Ekli dosyayı açmaktan kaçınmanızı ve "Love Letter Email Virus" e-postasını görmezden gelmenizi kesinlikle öneririz.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ek, "Love_You_20918824-2019-txt.zip" adında bir ZIP arşiv dosyasıdır ve içinde "Love_You_20918824-2019-txt.js" adlı JavaScript dosyasını içerir. Bu dosyayı çalıştırmak, yukarıda bahsedilen GandCrab 5.0.4 virüsünü ve XMRig Miner kripto para madencisini indirip yüklemenize neden olur.
+
+GandCrab 5.0.4, verileri şifreleyen ve fidye taleplerinde bulunan bir fidye yazılımı türüdür. Bu nedenle, kurbanların dosyalara erişimini engeller ve verilerin şifresinin çözülmesi için bir şifre çözme aracı veya anahtarın satın alınması yönünde bir fidye talebinde bulunur.
+
+Bu özel fidye yazılımı türü enfeksiyonu hakkında daha fazla bilgiye, yukarıda verilen bağlantıyı tıklayarak ulaşabilirsiniz. XMRig, enfekte bir bilgisayarın sistem kaynaklarını kullanarak Monero madenciliği yapan bir kripto para madencisidir.
+
+Ayrıca, "Love_You_20918824-2019-txt.js" JavaScript dosyasını çalıştırmak, Görev Yöneticisi'nde çalışan çeşitli rastgele ve şüpheli işlemlere (örneğin "wincfg32scv.exe", "1119713827.exe", "2987227227.exe" vb.) yol açar.
+
+Özetlemek gerekirse, "Love Letter Email Virus" içinde sunulan arşiv dosyasını çıkarmak ve içerilen JavaScript dosyasını çalıştırmak, dosyalara erişiminizin engellenmesine (veri şifreleme) ve bir kripto para madencisinin yüklenmesine neden olur. Bu ciddi sorunlara yol açabilir, bu nedenle bu e-postayı görmezden gelmeli ve ekini açmamalısınız.
+
+
+
+“Love Letter Email Virus” bilgisayarımıza nasıl bulaşır ?
+
+Çoğu spam e-posta kampanyasında olduğu gibi, "Love Letter Email Virus" da kötü amaçlı ekler aracılığıyla bilgisayarlara bulaşır (bu durumda "Love_You_20918824-2019-txt.zip" ZIP arşiv dosyası içinde bulunan "Love_You_20918824-2019-txt.js" adlı JavaScript dosyası).
+
+Diğer durumlarda, e-postalar, enfekte dosyalara veya kötü amaçlı eklerine (örneğin, .exe uzantılı yürütülebilir dosyalar, Microsoft Office belgeleri, PDF belgeleri vb.) yönlendiren web bağlantıları içerebilir. Örneğin, açılan kötü amaçlı bir MS Office belgesi, makro komutlarını etkinleştirmek için izin talep eder. Bunları etkinleştirerek, kullanıcılar bilgisayara enfeksiyon indirilmesine ve yüklenmesine izin vermiş olurlar.
+
+“Love Letter Email Virus” ‘ e karşı bilgisayarımızı nasıl koruyabiliriz ?
+
+Şüpheli, bilinmeyen veya güvenilmeyen e-posta adreslerinden gelen e-postaları (ve içlerinde sunulan web bağlantılarını veya ekleri) görmezden gelin. Çoğu zaman, bunlar tanınmış şirket adlarını kullanarak meşru mesajlar gibi sunulur. Ayrıca, dosyaları (yazılım) resmi ve güvenilir kaynaklardan indirin.
+
+Güvenilir bir casus yazılım veya antivirüs programının bilgisayarınızda yüklü olması da virüs veya diğer tehditler tarafından bilgisayar enfeksiyonunu önlemeye yardımcı olabilir. Eğer zaten "Love Letter Email Virus" ekini açtıysanız, infiltrasyona uğramış kötü amaçlı yazılımları otomatik olarak temizlemek için Windows için Combo Cleaner Antivirus ile tarama yapmanızı öneririz.
+
+
+
